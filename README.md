@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Kathy 🌸
 
-<!--
-**clairerb6/clairerb6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy ingeniera en informática, desarrolladora full-stack y entusiasta de Linux, automatización, servidores y software libre.
 
-Here are some ideas to get you started:
+## Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Trabajo con una mezcla de cosas que solo Dios y yo sabemos como funcionan... El problema es que yo tengo mala memoria
+- 🐧 Uso Fedora Linux como sistema principal.
+- 🛠️ Me gusta empaquetar software, automatizar procesos y montar servicios propios.
+- 🌸 Me interesa la cultura japonesa, el anime y el J-Rock.
+- 🚀 Actualmente estoy trabajando en proyectos de backend, APIs y migraciones legacy.
+
+## Tecnologías que uso
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+## Trofeos?
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=clairerb6&no-frame=true&margin-w=15)
+
+## My Stats
+
+![Kathy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=clairerb6&theme=tokyo-night)
+
+## Contacto
+
+- GitHub: [@clairerb6](https://github.com/clairerb6)
+- Sitio web: [katherineflores.me](https://katherineflores.me)
