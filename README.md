@@ -28,7 +28,7 @@ Soy ingeniera en informática, desarrolladora full-stack y entusiasta de Linux, 
 
 ## 🏆 Trophies
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=clairerb6&no-frame=true&margin-w=15)
+![Trophy](https://github-profile-trophy.vercel.app/?username=clairerb6&no-frame=true&margin-w=15&theme=aura)
 
 ## 📊 GitHub Activity
 
