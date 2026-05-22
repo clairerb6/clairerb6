@@ -21,11 +21,19 @@ Soy ingeniera en informática, desarrolladora full-stack y entusiasta de Linux, 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## Trofeos?
+## 🏆 Trophies
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=clairerb6&no-frame=true&margin-w=15)
 
-## My Stats
+## 📊 GitHub Activity
+
+A small snapshot of my GitHub activity and consistency.
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=clairerb6&theme=material-palenight)
+
+## 📊 My Stats
+
+[![](https://github-readme-streak-stats.herokuapp.com/?user=clairerb6&theme=material-palenight)](https://github.com/clairerb6)
 
 ![Kathy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=clairerb6&theme=tokyo-night)
 
