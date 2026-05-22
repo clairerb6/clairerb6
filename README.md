@@ -33,8 +33,6 @@ A small snapshot of my GitHub activity and consistency.
 
 ## 📊 My Stats
 
-[![](https://github-readme-streak-stats.herokuapp.com/?user=clairerb6&theme=material-palenight)](https://github.com/clairerb6)
-
 ![Kathy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=clairerb6&theme=tokyo-night)
 
 ## Contacto
