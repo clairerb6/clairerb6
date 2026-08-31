@@ -40,7 +40,19 @@ A small snapshot of my GitHub activity and consistency.
 
 ![Kathy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=clairerb6&theme=tokyo-night)
 
+## 🎓 Certifications
+
+- **Scrum Master Certified (SMC®)** — SCRUMstudy
+  - Issued: August 2026
+  - Expires: August 2029
+  - [Verify certification](https://www.scrumstudy.com/certification/verify?type=SMC&number=1186262)
+
+- **Scrum Fundamentals Certified (SFC™)** — SCRUMstudy
+  - Issued: July 2026
+  - [Verify certification](https://www.scrumstudy.com/certification/verify?type=SFC&number=1177818)
+
 ## Contacto
 
+- Gravatar: [Clairerb6](https://gravatar.com/clairerb6)
 - GitHub: [@clairerb6](https://github.com/clairerb6)
 - Sitio web: [katherineflores.me](https://katherineflores.me)
